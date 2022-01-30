@@ -1,0 +1,3 @@
+SELECT name FROM cities
+ORDER BY name ASC
+LIMIT 5;
